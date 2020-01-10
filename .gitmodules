@@ -1,0 +1,3 @@
+[submodule "comlab/Content/Assets"]
+	path = comlab/Content/Assets
+	url = https://github.com/inved1/comlab_assets.git
